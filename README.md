@@ -1,5 +1,5 @@
-# drunkGames
-an application created from scratch without the use of external resources, all handmade, aimed at funnypeople who enjoy drinking
+# Description
+An application created from scratch without the use of external resources, all handmade, aimed at funnypeople who enjoy drinking. This React application brings both different combos & different games.
 
 # HOW TO SET UP
 
