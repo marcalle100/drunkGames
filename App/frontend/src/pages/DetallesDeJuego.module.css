@@ -1,0 +1,97 @@
+.mainContainer {
+  background-color: black;
+}
+.gameContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+.gameTitle {
+  -webkit-text-stroke: 0.156rem #00b548;
+
+  font-family: cursive;
+  color: transparent;
+  font-size: 3.2rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.27rem;
+}
+.gameInfo {
+  text-align: start;
+  -webkit-text-stroke: 0.1rem #00b548;
+  color: #00b548;
+
+  font-family: cursive;
+  /* color: transparent; */
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.27rem;
+  padding-left: 3.44rem;
+}
+.gameInfo p {
+  margin: 0px;
+}
+.gameIcon {
+  height: 15.37rem;
+  width: 15.37rem;
+  padding-bottom: 1.5rem;
+}
+.returnButton {
+  width: 17.3rem;
+  height: 6.5rem;
+  border-radius: 32px;
+  border: 4px solid #00b548;
+  background: rgba(217, 217, 217, 0);
+  box-shadow: 0px 4px 4px 2px #01992c;
+  -webkit-text-stroke: 0.156rem #00b548;
+
+  font-family: cursive;
+  color: transparent;
+  font-size: 3rem;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.1rem;
+  margin-bottom: 5rem;
+  padding-bottom: 0rem;
+}
+.returnButton:hover {
+  cursor: pointer;
+}
+.returnButton:active {
+  box-shadow: 0px 2px 2px 1px #01992c;
+  transform: translateY(5px);
+}
+
+.ruleTitle {
+  -webkit-text-stroke: 0.156rem #00b548;
+
+  font-family: cursive;
+  color: transparent;
+  font-size: 2.8rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.27rem;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+}
+.gameDescription {
+  text-align: start;
+  -webkit-text-stroke: 0.01rem #00b548;
+
+  font-family: cursive;
+  color: #00b548;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.2rem;
+  padding-left: 3.44rem;
+  margin-right: 3rem;
+  /* margin-bottom: 5rem; */
+}
