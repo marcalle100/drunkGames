@@ -12,3 +12,6 @@ An application created from scratch without the use of external resources, all h
 # Contact
 
 If you have any trouble with the installation, contact me at marcalle100@gmail.com
+
+# Wireframe
+https://www.figma.com/file/yr5FvuxLOnLqZhc72zEydJ/Untitled?type=design&node-id=0%3A1&mode=design&t=Usm8az26hmVM7Wao-1
